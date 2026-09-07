@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- ============================================================ -->
+<!-- HEADER                                                       -->
+<!-- ============================================================ -->
 
 <a href="https://github.com/Sohith-Pothula">
 
@@ -11,7 +14,7 @@
 
 </a>
 
-
+<br>
 
 <a href="https://git.io/typing-svg">
 
@@ -22,27 +25,63 @@
 
 </a>
 
+<br>
+
 <!-- ============================================================ -->
 <!-- SOCIAL LINKS                                                  -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/sohith-pothula/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/sohith_pothula"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.kaggle.com/sohithpothula"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://leetcode.com/u/sohith_pothula/"><img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:sohithpothual@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+<table>
+<tr>
+
+<td>
+<a href="https://www.linkedin.com/in/sohith-pothula/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td>
+<a href="https://x.com/sohith_pothula">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td>
+<a href="https://www.kaggle.com/sohithpothula">
+<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td>
+<a href="https://leetcode.com/u/sohith_pothula/">
+<img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td>
+<a href="mailto:sohithpothual@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <!-- ============================================================ -->
 <!-- SEPARATOR                                                     -->
 <!-- ============================================================ -->
-
-<div align="center">
 
 <img
   src="./assets/separator.svg"
@@ -56,11 +95,7 @@
 <!-- PROFILE                                                       -->
 <!-- ============================================================ -->
 
-<div align="left">
-
-<h2>🧠 <code>profile.describe()</code></h2>
-
-
+<h2 align="center">🧠 <code>profile.describe()</code></h2>
 
 ```python
 model = {
@@ -110,77 +145,147 @@ model = {
         "Consistency"
     ]
 }
-</div>
+
 ```
-<!-- ============================================================ --> <!-- TECH STACK --> <!-- ============================================================ --> <b
+<!-- ============================================================ -->
+<!-- TECH STACK                                                    -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<img src="./assets/separator.svg" width="100%" alt="Separator" />
-
-</div>
+<img
+  src="./assets/separator.svg"
+  width="100%"
+  alt="Separator"
+/>
 
 <br>
 
-<h2 align="center">🔧 <code>model.build("stack")</code></h2>
+<h2>🔧 <code>model.build("stack")</code></h2>
 
-<h3 align="center">📊 Data Science · ML & DL</h3>
+<br>
 
-<p align="center">
-  <img src="./assets/Python-Dark.svg" width="40" alt="Python" />
-  <img src="./assets/numpy1.png" width="40" alt="NumPy" />
-  <img src="./assets/pandas1.png" width="40" alt="Pandas" />
-  <img src="./assets/MySQL-Dark.svg" width="40" alt="MySQL" />
-  <img src="./assets/ScikitLearn-Dark.svg" width="40" alt="Scikit-learn" />
+<h3>📊 Data Science · ML & DL</h3>
+
+<p>
+  <img src="./assets/Python-Dark.svg" width="40" alt="Python">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/numpy1.png" width="40" alt="NumPy">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/pandas1.png" width="40" alt="Pandas">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/MySQL-Dark.svg" width="40" alt="MySQL">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/ScikitLearn-Dark.svg" width="40" alt="Scikit-learn">
 </p>
 
-<h3 align="center">🧠 GenAI · Agentic AI</h3>
+<br>
 
-<p align="center">
-  <img src="./assets/py1.png" width="40" alt="Pydantic" />
-  <img src="./assets/langchain1.png" width="40" alt="LangChain" />
-  <img src="./assets/langgraph1.png" width="40" alt="LangGraph" />
-  <img src="./assets/mcp1.png" width="40" alt="MCP" />
+<h3>🧠 GenAI · Agentic AI</h3>
+
+<p>
+  <img src="./assets/py1.png" width="40" alt="Pydantic">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/langchain1.png" width="40" alt="LangChain">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/langgraph1.png" width="40" alt="LangGraph">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/mcp1.png" width="40" alt="MCP">
 </p>
 
-<h3 align="center">🚀 Backend · Deployment</h3>
+<br>
 
-<p align="center">
-  <img src="./assets/FastAPI.svg" width="40" alt="FastAPI" />
-  <img src="./assets/Flask-Dark.svg" width="40" alt="Flask" />
-  <img src="./assets/streamlit1.png" width="40" alt="Streamlit" />
-  <img src="./assets/Docker.svg" width="40" alt="Docker" />
-  <img src="./assets/Vercel-Dark.svg" width="40" alt="Vercel" />
+<h3>🚀 Backend · Deployment</h3>
+
+<p>
+  <img src="./assets/FastAPI.svg" width="40" alt="FastAPI">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/Flask-Dark.svg" width="40" alt="Flask">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/streamlit1.png" width="40" alt="Streamlit">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/Docker.svg" width="40" alt="Docker">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/Vercel-Dark.svg" width="40" alt="Vercel">
 </p>
 
-<h3 align="center">🛠️ Developer Tools</h3>
+<br>
 
-<p align="center">
-  <img src="./assets/git1.png" width="40" alt="Git" />
-  <img src="./assets/github1.png" width="40" alt="GitHub" />
-  <img src="./assets/VSCode-Dark.svg" width="40" alt="VS Code" />
-  <img src="./assets/jupyter1.png" width="40" alt="Jupyter" />
-  <img src="./assets/colab1.png" width="40" alt="Google Colab" />
-  <img src="./assets/Anaconda-Light.svg" width="40" alt="Anaconda" />
-  <img src="./assets/html1.png" width="40" alt="HTML5" />
-  <img src="./assets/css3.png" width="40" alt="CSS3" />
-</p> <!-- ============================================================ --> <!-- GITHUB CONTRIBUTION STREAK --> <!-- ============================================================ --> 
-<br> 
+<h3>🛠️ Developer Tools</h3>
+
+<p>
+  <img src="./assets/git1.png" width="40" alt="Git">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/github1.png" width="40" alt="GitHub">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/VSCode-Dark.svg" width="40" alt="VS Code">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/jupyter1.png" width="40" alt="Jupyter">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/colab1.png" width="40" alt="Google Colab">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/Anaconda-Light.svg" width="40" alt="Anaconda">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/html1.png" width="40" alt="HTML5">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/css3.png" width="40" alt="CSS3">
+</p>
+
+</div>
+
+<!-- ============================================================ -->
+<!-- GITHUB CONTRIBUTION STREAK                                   -->
+<!-- ============================================================ -->
+
+<br>
+
 <div align="center">
 
-<img src="./assets/separator.svg" width="100%" alt="Separator" />
+<img
+  src="./assets/separator.svg"
+  width="100%"
+  alt="Separator"
+/>
 
-</div> 
-<br> 
-<h2 align="center">🔥 <code>streak.monitor()</code></h2> <p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Sohith-Pothula&theme=tokyonight&hide_border=true" alt="Sohith's GitHub Contribution Streak" />
+<h2>🔥 <code>streak.monitor()</code></h2>
 
-</p> <!-- ============================================================ --> <!-- CONTRIBUTION GALAGA --> <!-- ============================================================ --> <br> <div align="center">
+<br>
 
-<img src="./assets/separator.svg" width="100%" alt="Separator" />
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=Sohith-Pothula&theme=tokyonight&hide_border=true"
+    alt="Sohith's GitHub Contribution Streak"
+  />
+</p>
 
-</div> <br> <h2 align="center">🚀 <code>contribution.galaga()</code></h2> <p align="center">
+</div>
 
-<img src="https://raw.githubusercontent.com/Sohith-Pothula/Sohith-Pothula/output/galaga-contribution-graph.svg" alt="GitHub Contribution Galaga" width="100%" />
+<!-- ============================================================ -->
+<!-- CONTRIBUTION GALAGA                                          -->
+<!-- ============================================================ -->
 
-</p> ```
+<br>
+
+<div align="center">
+
+<img
+  src="./assets/separator.svg"
+  width="100%"
+  alt="Separator"
+/>
+
+<br>
+
+<h2>🚀 <code>contribution.graph()</code></h2>
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/Sohith-Pothula/Sohith-Pothula/output/galaga-contribution-graph.svg?v=2"
+  alt="GitHub Contribution Galaga"
+  width="100%"
+/>
+
+</div>
