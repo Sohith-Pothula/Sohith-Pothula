@@ -5,16 +5,26 @@
 name: Generate Galaga
 
 on:
+
+  # Run automatically whenever main is updated
+  push:
+    branches:
+      - main
+
+  # Run once every day
   schedule:
     - cron: "0 0 * * *"
 
+  # Allow manual execution
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
+
   generate:
+
     runs-on: ubuntu-latest
 
     steps:
@@ -26,14 +36,15 @@ jobs:
       - name: Generate Galaga
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Sohith-Pothula
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           games: "galaga"
 
       # --------------------------------------------------------
       # Publish Generated SVG
       # --------------------------------------------------------
 
-      - name: Push Galaga to Output Branch
+      - name: Publish Galaga SVG
         uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
