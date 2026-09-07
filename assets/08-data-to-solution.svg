@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+<rect width="1200" height="300" rx="18" fill="#0A0F12"/>
+<g font-family="monospace" font-size="13" text-anchor="middle">
+<g fill="#67E8F9" opacity=".45"><text x="100" y="55">PROBLEM</text><text x="300" y="55">DATA</text><text x="500" y="55">INSIGHTS</text></g>
+<g fill="#A7F3D0" opacity=".45"><text x="700" y="245">MODELS</text><text x="900" y="245">AI SYSTEM</text><text x="1100" y="245">SOLUTION</text></g>
+</g>
+<path d="M100 70L300 70L500 70L600 145L700 230L900 230L1100 230" fill="none" stroke="#67E8F9" stroke-width="3" opacity=".22"/>
+<g fill="#67E8F9" opacity=".5"><circle cx="100" cy="70" r="6"/><circle cx="300" cy="70" r="6"/><circle cx="500" cy="70" r="6"/><circle cx="700" cy="230" r="6"/><circle cx="900" cy="230" r="6"/><circle cx="1100" cy="230" r="6"/></g>
+<text x="600" y="125" text-anchor="middle" fill="#F8FAFC" font-family="Arial" font-size="56" font-weight="700">Sohith Pothula</text>
+<text x="600" y="170" text-anchor="middle" fill="#67E8F9" font-family="monospace" font-size="21">💡 SOLVE → 📊 UNDERSTAND → 🧠 BUILD → ⚙️ ENGINEER → 🚀 SHIP</text>
+</svg>

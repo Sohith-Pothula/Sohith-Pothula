@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="6"
+     viewBox="0 0 1200 6"
+     preserveAspectRatio="none">
+
+  <defs>
+
+    <!-- Always-visible base line -->
+    <linearGradient id="baseGradient"
+                     x1="0%"
+                     y1="0%"
+                     x2="100%"
+                     y2="0%">
+
+      <stop offset="0%" stop-color="#00ffff" stop-opacity="0.08"/>
+      <stop offset="35%" stop-color="#00ffff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#ff8800" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#ff3d00" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ff0000" stop-opacity="0.08"/>
+
+    </linearGradient>
+
+    <!-- Moving glow -->
+    <linearGradient id="movingGradient"
+                     gradientUnits="userSpaceOnUse"
+                     x1="0"
+                     y1="0"
+                     x2="600"
+                     y2="0">
+
+      <stop offset="0%" stop-color="#00ffff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00ffff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#ff8800" stop-opacity="0.9"/>
+      <stop offset="65%" stop-color="#ff3d00"/>
+      <stop offset="80%" stop-color="#ff0000" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ff0000" stop-opacity="0"/>
+
+    </linearGradient>
+
+  </defs>
+
+
+  <!-- Base separator -->
+  <rect
+    x="0"
+    y="2"
+    width="1200"
+    height="2"
+    rx="1"
+    fill="url(#baseGradient)"
+  />
+
+
+  <!-- Moving highlight -->
+  <rect
+    x="-600"
+    y="1"
+    width="600"
+    height="4"
+    rx="2"
+    fill="url(#movingGradient)">
+
+    <animate
+      attributeName="x"
+      from="-600"
+      to="1200"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+</svg>
